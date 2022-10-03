@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <messages>
+    <msg type="ERROR">Search not executed: This search could not be dispatched because the role-based disk usage quota of search artifacts for user "jeferson_dasilva" has been reached (usage=112MB, quota=100MB). Use the [[/app/search/job_manager|Job Manager]] to delete some of your search artifacts, or ask your Splunk administrator to increase the disk quota of search artifacts for your role in authorize.conf., usage=112MB, quota=100MB, user=jeferson_dasilva, concurrency_category="historical", concurrency_context="user_instance-wide"</msg>
+  </messages>
+</response>
